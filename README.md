@@ -1,2 +1,2 @@
-# hello-world-bih-nah
-Tutorial bih
+# hello-world
+lean
